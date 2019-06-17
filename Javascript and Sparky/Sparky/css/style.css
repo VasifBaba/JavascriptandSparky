@@ -1,0 +1,55 @@
+#DesignComes {
+  height: 400px;
+  background: #343A40; }
+  #DesignComes h4 {
+    letter-spacing: 8px;
+    font-family: "Arial" "Tahoma", sans-serif; }
+
+#Mountain {
+  height: 600px; }
+  #Mountain p {
+    line-height: 1.7;
+    letter-spacing: px; }
+
+#OurService {
+  height: 1200px;
+  background: #ddd; }
+  #OurService h3 {
+    letter-spacing: 4px; }
+  #OurService .col-md-3 {
+    background: #fff; }
+  #OurService p {
+    line-height: 1.7; }
+
+#Reqemler {
+  height: 300px;
+  background: #343A40; }
+  #Reqemler .col-md-3 {
+    background: #fff; }
+
+#OurPortfolio {
+  height: 600px; }
+
+#DoeBranding h6 {
+  letter-spacing: 3px; }
+#DoeBranding input {
+  letter-spacing: 3px; }
+
+#ViewOurVideo {
+  height: 300px; }
+  #ViewOurVideo input {
+    letter-spacing: 5px; }
+
+#OurTeam {
+  height: 1200px; }
+
+#footer li {
+  line-height: 2.5; }
+#footer input {
+  border-radius: 50px; }
+#footer a:hover {
+  color: #fff; }
+
+/*# sourceMappingURL=style.css.map */
+
+/*# sourceMappingURL=style.css.map */
